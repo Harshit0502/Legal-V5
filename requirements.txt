@@ -1,0 +1,11 @@
+gradio==4.26.0
+numpy
+torch
+scikit-learn
+pdf2image
+Pillow
+transformers
+bitsandbytes
+accelerate
+qwen-vl-utils
+torchvision
