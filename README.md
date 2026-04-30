@@ -71,4 +71,7 @@ For best results, replace with your fine-tuned legal LongT5 model:
 SUM_MODEL_NAME=Harshit0502/legal-longt5-sectionwise
 ```
 
+ ```bash
+Gardio_link = https://huggingface.co/spaces/harshitmahour360/LonGT5Summarizer
+```
 Use T4 GPU or better for 20–30 page PDFs.
