@@ -1,0 +1,11 @@
+Execution Instructions for Guarded LongT5 Summarizer
+
+1. Open the live Hugging Face Space: https://huggingface.co/spaces/harshitmahour360/LonGT5Summarizer
+2. Upload a legal/document PDF in the app interface.
+3. Click “Extract PDF Text” to convert the PDF into cleaned text.
+4. Keep Mode as “Balanced” for normal testing.
+5. Keep “Use extractive factual skeleton” enabled for better factual summaries.
+6. Keep Anchor Method as “None” unless deeper testing is required.
+7. Click “Generate Guarded Summary” to produce the final summary.
+8. Check the Final Summary, Section Summaries, and Debug logs for output quality.
+9. or we can check it by simply ipynb file at last 2nd cell upload a normal pdf and see evaluation metrics
